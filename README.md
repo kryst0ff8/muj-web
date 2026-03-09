@@ -1,1 +1,27 @@
-# muj-web
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ARCH STUDIO - Minimal Architecture &amp; Design</title>
+    <meta name="description" content="Award-winning architectural firm specializing in minimal design. Creating extraordinary spaces through thoughtful architecture, residential, commercial and renovation projects.">
+    <meta name="author" content="Stavitel s.r.o." />
+
+    
+    
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:title" content="ARCH STUDIO - Minimal Architecture &amp; Design">
+  <meta name="twitter:title" content="ARCH STUDIO - Minimal Architecture &amp; Design">
+  <meta property="og:description" content="Award-winning architectural firm specializing in minimal design. Creating extraordinary spaces through thoughtful architecture, residential, commercial and renovation projects.">
+  <meta name="twitter:description" content="Award-winning architectural firm specializing in minimal design. Creating extraordinary spaces through thoughtful architecture, residential, commercial and renovation projects.">
+  <meta property="og:image" content="https://storage.googleapis.com/gpt-engineer-file-uploads/8jp6KAG7qJZgRp4lIs04ZYXqlhL2/social-images/social-1758046678671-Screenshot 2025-09-16 at 20.17.45.png">
+  <meta name="twitter:image" content="https://storage.googleapis.com/gpt-engineer-file-uploads/8jp6KAG7qJZgRp4lIs04ZYXqlhL2/social-images/social-1758046678671-Screenshot 2025-09-16 at 20.17.45.png">
+</head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
